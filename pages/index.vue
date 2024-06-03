@@ -408,10 +408,6 @@ const openMenu = ref(false)
 
             .box {
                 padding: 8px !important;
-
-                span:first-child {
-                    font-size: 10px !important;
-                }
             }
         }
     }
