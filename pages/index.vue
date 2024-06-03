@@ -27,7 +27,7 @@
                         <div class="box p-2 px-3 rounded-3 d-flex align-items-center gap-2">
                             <NuxtImg src="/images/magic-star.svg" width="25" />
                             <div class="info">
-                                <span class="d-block fw-bold">
+                                <span class="d-flex align-items-center gap-1 fw-bold">
                                     4.2
                                     <span class="counter text-black-50" style="font-size: 12px;">
                                         (15)
