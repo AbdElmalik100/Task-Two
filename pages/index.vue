@@ -386,6 +386,7 @@ const openMenu = ref(false)
                 }
 
                 .lot {
+                    text-wrap: nowrap;
                     .box {
                         background-color: var(--very-light-orange-color);
                         color: var(--second-color);
